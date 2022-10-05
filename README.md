@@ -19,6 +19,7 @@ we had no .env requirements
 
 - to run the test open terminal and type the command -> pytest
 - to run the code open terminal and type the command -> cd math_series --> python3 series.py
+- if you want to see the whole series produced change "return sequence[n]" to "return sequence" and then print the function
 
 #### How to use your library (where applicable)
 
