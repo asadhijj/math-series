@@ -22,6 +22,7 @@ we had no .env requirements
 - if you want to see the whole series produced change "return sequence[n]" to "return sequence" and then print the function
 
 #### How to use your library (where applicable)
+you can use the library for the tests file by running the command "pytest" in the terminal
 
 #### Tests
 
