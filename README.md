@@ -6,8 +6,8 @@
 
 ### Links and Resources
 
-- Link01
-- Link02
+- [Pull Request Link](https://github.com/asadhijj/math-series/pull/1)
+
 
 ### Setup
 
